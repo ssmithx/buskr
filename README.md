@@ -1,5 +1,6 @@
 # buskr
 Video streaming platform for performing artists
+
 buskr is designed for anyone to be able to log in or create a nostr account
 stand up their phone and start streaming their performance:
 music, dance, poetry, live art, graffiti, tattoo
